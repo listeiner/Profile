@@ -109,7 +109,7 @@ h1 {
 
 .summary {
   font-family: "Montserrat";
-  font-size: 1vw;
+  font-size: 1.5vw;
   text-align: center;
 }
 
@@ -129,6 +129,21 @@ h3 {
   font-size: 2vw;
   margin: 0;
 }
+
+.profile-pic-container {
+    text-align: center;
+    margin: 3vw;
+
+}
+
+.profile-pic-container img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 
 .sprite-container {
   display: flex;
